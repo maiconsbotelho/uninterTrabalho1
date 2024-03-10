@@ -3,7 +3,7 @@ print('\nBem-vindo a Loja de Gelados do Maicon da Silva Botelho RU: 1904125')
 
 # APRESENTAÇÃO DO CARDÁPIO
 print('---------------------Cardápio---------------------')
-print('------| Tamanho | Cupuaçu (CP) | Açai (AC) |------')
+print('------| Tamanho | Cupuaçu (CP) | Açaí (AC) |------')
 print('------|    P    |   R$  9,00   |  R$ 11,00 |------')
 print('------|    M    |   R$ 14,00   |  R$ 16,00 |------')
 print('------|    G    |   R$ 18,00   |  R$ 20,00 |------')
